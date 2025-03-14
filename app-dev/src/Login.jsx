@@ -38,7 +38,7 @@ function Login() {
                         <h1>Create Account</h1>
                         <div className="social-icons">
                             <a href="#" onClick={(e) => e.preventDefault()} className="icon">
-                                <i className="fa-brands fa-google-plus-g"></i>
+                                <i class="fa-brands fa-google"></i>
                             </a>
                             <a href="#" onClick={(e) => e.preventDefault()} className="icon">
                                 <i className="fa-brands fa-facebook-f"></i>
@@ -56,7 +56,7 @@ function Login() {
                         <h1>Sign In</h1>
                         <div className="social-icons">
                             <a href="#" onClick={(e) => e.preventDefault()} className="icon">
-                                <i className="fa-brands fa-google-plus-g"></i>
+                                <i class="fa-brands fa-google"></i> 
                             </a>
                             <a href="#" onClick={(e) => e.preventDefault()} className="icon">
                                 <i className="fa-brands fa-facebook-f"></i>
