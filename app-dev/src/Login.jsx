@@ -62,10 +62,10 @@ function Login() {
                                 <i className="fa-brands fa-facebook-f"></i>
                             </a>
                         </div>
-                        <span>or use your email password</span>
+                        <span>or use your email and password</span>
                         <input type="email" placeholder="Email" />
                         <input type="password" placeholder="Password" />
-                        <a href="#" onClick={(e) => e.preventDefault()}>Forget Your Password?</a>
+                        <a href="#" onClick={(e) => e.preventDefault()}>Forgot Your Password?</a>
                         <button>Sign In</button>
                     </form>
                 </div>
